@@ -1,7 +1,8 @@
-## 摩尔线程全面支持DeepSeek开源生态
+## Moore Threads comprehensively supports the DeepSeek open-source ecosystem
+**[English](README.md), [中文](README_zh.md).**
 
-摩尔线程基于自研元计算统一系统架构（Meta-computing Unified System Architecture, 简称 MUSA）GPU，全面支持DeepSeek开源生态，致力于加速AGI时代到来。
+Moore Threads, leveraging its self-developed Meta-computing Unified System Architecture (MUSA) GPU, comprehensively supports the DeepSeek open-source ecosystem and is committed to accelerating the advent of the AGI era.
 
-本仓库将陆续发布结合摩尔线程GPU产品和DeepSeek创新技术的项目源码、依赖仓库链接等，并将在合适时机开源。
+This repository will progressively release project source codes and links to dependent repositories that integrate Moore Threads GPU products with DeepSeek's innovative technologies. The repository will be open-sourced in due course .
 
-详情请邮件联系 qiheng.lv@mthreads.com 或访问 https://developer.mthreads.com
+For details, please contact qiheng.lv@mthreads.com via email or visit https://developer.mthreads.com.
