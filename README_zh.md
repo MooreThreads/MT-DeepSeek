@@ -5,4 +5,10 @@
 
 本仓库将陆续发布结合摩尔线程GPU产品和DeepSeek创新技术的项目源码、依赖仓库链接等，并将在合适时机开源。
 
+已发布项目：
+
+- [MT-FlashMLA](https://github.com/MooreThreads/MT-flashMLA)
+- [MT-DeepEP](https://github.com/MooreThreads/MT-DeepEP)
+- [MT-DualPipe](https://github.com/MooreThreads/MT-DualPipe)
+
 详情请邮件联系 qiheng.lv@mthreads.com 或访问 https://developer.mthreads.com
